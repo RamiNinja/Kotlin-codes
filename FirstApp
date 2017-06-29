@@ -1,7 +1,7 @@
 fun main(args:Array<String>){
 
   print("hi rami,\n")
-  print("Welcome to Kotlin")
+  println("Welcome to Kotlin")
   print(3)
 
 }
