@@ -2,7 +2,7 @@ fun main(args:Array<String>){
 
     var name:String?
     name=null
-    println(name)
+    println(name!!)
     name="rami"
     println(name)
 }
